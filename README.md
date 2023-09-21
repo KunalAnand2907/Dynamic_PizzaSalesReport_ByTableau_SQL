@@ -93,9 +93,10 @@ XXL - XX-Large
 
 <h4 align="center"> 1.) Home Page ~ Landing or Main Page </h4>
 
-![image](https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/dd359655-8528-4588-9416-83f89f92af17)
+![image](https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/blob/main/Pizza%20Sales%20Dashboard%20Home%20Page.png)
 
 <h4 align="center"> 2.) Best/ Worst Pizza Sellers </h4>
+![Pizza Sales Dashboard Home Page](https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/b572d6cc-67e6-4f41-9c3a-cd518fd4dcfc)
 
 ![image](https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/5b634ad2-2d94-4192-805b-cbe4ec208646)
 
