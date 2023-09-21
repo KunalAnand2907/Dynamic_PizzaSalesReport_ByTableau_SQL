@@ -1,8 +1,8 @@
 ## Dynamic & Interactive Pizza Sales Dashboard By Tableau & SQL 👇
 
-Please visit my Tableau Public Profile to Access the Project: https://public.tableau.com/app/profile/kunal7999/viz/Pizza_Sales_Proj_1/Home
+Project Link: https://public.tableau.com/app/profile/kunal7999/viz/Pizza_Sales_Proj_1/Home
 
-<b> For this Project First, we Used Tableau to create interactive and dynamic Dashboards and uploaded .csv File to Microsoft SQL Server where we Pre-processed the data ~ (ETL), and then created a Validation Report (Performed Complex SQL Queries) to Justify/ Validate the KPI's or Different Charts that we are showing through our Viz. Also, it will help our Business Clients to make important Decisions. </b>
+For this Project First, we Used Tableau to create interactive and dynamic Dashboards and uploaded .csv File to Microsoft SQL Server where we Pre-processed the data ~ (ETL), and then created a Validation Report (Performed Complex SQL Queries) to Justify/ Validate the KPI's or Different Charts that we are showing through our Viz. Also, it will help our Business Clients to make important Decisions. 
 
 ### 1. Dataset Overview
 
@@ -91,15 +91,11 @@ XXL - XX-Large
 
 ### 6. Creating 2 To & Fro Dashboards: 
 
-<h3> 1.) Home Page ~ Landing or Main Page </h3>
+<h4 align="center"> 1.) Home Page ~ Landing or Main Page </h4>
 
+![image](https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/dd359655-8528-4588-9416-83f89f92af17)
 
+<h4 align="center"> 2.) Best/ Worst Pizza Sellers </h4>
 
+![image](https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/5b634ad2-2d94-4192-805b-cbe4ec208646)
 
-
-
-
-
-
-
-2.) Best/ Worst Pizza Sellers 
