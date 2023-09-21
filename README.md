@@ -84,10 +84,16 @@ XXL - XX-Large
 
 <b><li> Handling Null/Missing Values: </b></li> By taking the Mean, Median and mode of that particular column & replacing the Null values with it 
 
-<b><li> Handling Noisy Data/Outliers: </b></li> Performing Min/Max Normalization where the values will lie in the range [0.1] 
+<b><li> Handling Noisy Data/Outliers: </b></li> Performing Min/Max Normalization where the values will lie in the range [0,1] 
 </ol>
 
 ### 5. Performing & writing Validation Queries to test the Results of the Dashboard
+
+
+![Screenshot 2023-09-22 023551](https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/8c385f84-83cf-475d-a319-e2197480c3c5)
+
+
+![Screenshot 2023-09-22 023615](https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/daa8a929-b05d-488a-90e9-375ab482464a)
 
 ### 6. Creating 2 To & Fro Dashboards:
 
