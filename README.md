@@ -89,14 +89,15 @@ XXL - XX-Large
 
 ### 5. Performing & writing Validation Queries to test the Results of the Dashboard
 
-### 6. Creating 2 To & Fro Dashboards: 
+### 6. Creating 2 To & Fro Dashboards:
 
-<h4 align="center"> 1.) Home Page ~ Landing or Main Page </h4>
+<p align="center"> <b>1.) Home Page ~ Landing or Main Page</b></p>
 
-![image](https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/blob/main/Pizza%20Sales%20Dashboard%20Home%20Page.png)
-
-<h4 align="center"> 2.) Best/ Worst Pizza Sellers </h4>
 ![Pizza Sales Dashboard Home Page](https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/b572d6cc-67e6-4f41-9c3a-cd518fd4dcfc)
 
-![image](https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/5b634ad2-2d94-4192-805b-cbe4ec208646)
+<p align="center"> <b> 2.) Best/ Worst Pizza Sellers </b></p>
+
+![Pizza Sales Dashboard Best_Worst Sellers Page](https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/6d39965f-62f2-4912-87e7-3c12ddef2576)
+
+
 
