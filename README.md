@@ -94,7 +94,7 @@ XXL - XX-Large
 
 
 
-<img width = 900 height = 700 src = "https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/daa8a929-b05d-488a-90e9-375ab482464a">
+<img src = "https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/daa8a929-b05d-488a-90e9-375ab482464a">
 
 ### 6. Creating 2 To & Fro Dashboards:
 
