@@ -89,12 +89,6 @@ XXL - XX-Large
 
 ### 5. Performing & writing Validation Queries to test the Results of the Dashboard 
 
-
-<img align = "center" width = 500 height = 350 src = "https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/e2d6a78d-929c-411d-816b-94c8b80154f0">
-
-
-
-
 <img src = "https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/01e3d543-0cf5-4b8f-b1e6-7d9e964292d3">
 
 ### 6. Creating 2 To & Fro Dashboards:
