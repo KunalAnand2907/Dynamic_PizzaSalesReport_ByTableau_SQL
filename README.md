@@ -90,21 +90,22 @@ XXL - XX-Large
 ### 5. Performing & writing Validation Queries to test the Results of the Dashboard 
 
 
-<img align = "center" width = 500 height = 350 src = "https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/394b8a9a-1ed6-4d23-8ed0-ef1139a9b268">
+<img align = "center" width = 500 height = 350 src = "https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/e2d6a78d-929c-411d-816b-94c8b80154f0">
 
 
 
-<img src = "https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/daa8a929-b05d-488a-90e9-375ab482464a">
+
+<img src = "https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/01e3d543-0cf5-4b8f-b1e6-7d9e964292d3">
 
 ### 6. Creating 2 To & Fro Dashboards:
 
 <p align="center"> <b>1.) Home Page ~ Landing or Main Page</b></p>
 
-![Pizza Sales Dashboard Home Page](https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/b572d6cc-67e6-4f41-9c3a-cd518fd4dcfc)
+![Screenshot 2023-09-18 042209](https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/a5105283-a3fb-4a28-b69c-01101d0908aa)
+
 
 <p align="center"> <b> 2.) Best/ Worst Pizza Sellers </b></p>
 
-![Pizza Sales Dashboard Best_Worst Sellers Page](https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/6d39965f-62f2-4912-87e7-3c12ddef2576)
 
-
+![Screenshot 2023-09-18 042326](https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/e690fc3c-0103-4c6d-9dae-34ee77aa4def)
 
