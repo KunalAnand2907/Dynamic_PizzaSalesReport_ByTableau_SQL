@@ -95,7 +95,7 @@ XXL - XX-Large
 
 <img src = "https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/01e3d543-0cf5-4b8f-b1e6-7d9e964292d3">
 
-### 6. Creating 2 To & Fro Dashboards:
+### 6. Created 2 To & Fro Dashboards:
 
 <p align="center"> <b>1.) Home Page ~ Landing or Main Page</b></p>
 
