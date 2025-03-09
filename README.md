@@ -1,12 +1,12 @@
 ## Dynamic & Interactive Pizza Sales Dashboard By Tableau & SQL 👇 
 
-Project Link: https://public.tableau.com/app/profile/kunal7999/viz/Pizza_Sales_Proj_1/Home
+📍 Project Link: https://public.tableau.com/app/profile/kunal7999/viz/Pizza_Sales_Proj_1/Home
 
-📈 For this project, Have used Tableau to create interactive and dynamic dashboards. I uploaded a .csv file to Microsoft SQL Server, where the data was pre-processed using ETL (Extract, Transform, Load) techniques. Subsequently, I created a validation report by performing complex SQL queries to justify and validate the visualizations presented in Tableau.
+📈 For the project, Have used **Tableau** to create interactive and dynamic dashboards. I uploaded a **.csv file to Microsoft SQL Server**, where the data is pre-processed using **ETL** techniques. Subsequently, I created a validation report by performing complex** SQL** queries to justify and validate the visualizations presented in Tableau.
 
-I developed various charts/ Graphs and interactive dashboards, including a "Home" dashboard and dashboards showcasing the best and worst-selling pizzas. Additionally, have highlighted five (KPIs) that significantly impact pizza sales & help pizza Supplier shape their businesses. 
+📌 Developed various** charts/ Graphs** and **interactive dashboards**, including a **"Home" dashboard** and dashboards showcasing the **best and worst-selling pizzas**. Additionally, have highlighted five **(KPIs)** that significantly impact pizza sales & help pizza Supplier shape their businesses. 
 
-The project aims to assist clients in the pizza business by providing valuable insights through real-time data analytics dashboards, enabling them to make informed decisions to improve their sales.
+📌 The project aims to assist clients in the pizza business by providing valuable insights through real-time data analytics dashboards, enabling them to make informed decisions to improve their sales.
 
 ### 1. Dataset Overview
 
@@ -91,18 +91,18 @@ XXL - XX-Large
 <b><li> Handling Noisy Data/Outliers: </b></li> Performing Min/Max Normalization where the values will lie in the range [0,1] 
 </ol>
 
-### 5. Performing & writing Validation Queries to test the Results of the Dashboard 
+### 5. Executed and documented validation queries to verify dashboard results.
 
 <img src = "https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/01e3d543-0cf5-4b8f-b1e6-7d9e964292d3">
 
-### 6. Created 2 To & Fro Dashboards:
+### 6. Designed and implemented two dynamic To & Fro dashboards.
 
 <p align="center"> <b>1.) Home Page ~ Landing or Main Page</b></p>
 
 ![Screenshot 2023-09-18 042209](https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/a5105283-a3fb-4a28-b69c-01101d0908aa)
 
 
-<p align="center"> <b> 2.) Best/ Worst Pizza Sellers </b></p>
+<p align="center"> <b> 2.) Best/ Worst Pizza Sellers Page</b></p>
 
 
 ![Screenshot 2023-09-18 042326](https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/e690fc3c-0103-4c6d-9dae-34ee77aa4def)
