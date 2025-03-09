@@ -2,11 +2,11 @@
 
 Project Link: https://public.tableau.com/app/profile/kunal7999/viz/Pizza_Sales_Proj_1/Home
 
-📈 For this project, I utilized Tableau to create interactive and dynamic dashboards. I uploaded a .csv file to Microsoft SQL Server, where the data was pre-processed using ETL (Extract, Transform, Load) techniques. Subsequently, I created a validation report by performing complex SQL queries to justify and validate the visualizations presented in Tableau.
+📈 For this project, Have used Tableau to create interactive and dynamic dashboards. I uploaded a .csv file to Microsoft SQL Server, where the data was pre-processed using ETL (Extract, Transform, Load) techniques. Subsequently, I created a validation report by performing complex SQL queries to justify and validate the visualizations presented in Tableau.
 
-I developed various charts and interactive dashboards, including a "Home" dashboard and dashboards showcasing the best and worst-selling pizzas. Additionally, I highlighted five key performance indicators (KPIs) that significantly impact pizza sales. 
+I developed various charts/ Graphs and interactive dashboards, including a "Home" dashboard and dashboards showcasing the best and worst-selling pizzas. Additionally, have highlighted five (KPIs) that significantly impact pizza sales & help pizza Supplier shape their businesses. 
 
-This project aims to assist clients in the pizza business by providing valuable insights through real-time data analytics dashboards, enabling them to make informed decisions to improve their sales.
+The project aims to assist clients in the pizza business by providing valuable insights through real-time data analytics dashboards, enabling them to make informed decisions to improve their sales.
 
 ### 1. Dataset Overview
 
