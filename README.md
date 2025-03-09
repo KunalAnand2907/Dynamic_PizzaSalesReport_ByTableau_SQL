@@ -1,6 +1,6 @@
 ## Dynamic & Interactive Pizza Sales Dashboard By Tableau & SQL 👇 
 
-📍 Project Link: https://public.tableau.com/app/profile/kunal7999/viz/Pizza_Sales_Proj_1/Home
+**📍 Project Link:** https://public.tableau.com/app/profile/kunal7999/viz/Pizza_Sales_Proj_1/Home
 
 📈 For the project, Have used **Tableau** to create interactive and dynamic dashboards. I uploaded a **.csv file to Microsoft SQL Server**, where the data is pre-processed using **ETL** techniques. Subsequently, I created a validation report by performing complex** SQL** queries to justify and validate the visualizations presented in Tableau.
 
