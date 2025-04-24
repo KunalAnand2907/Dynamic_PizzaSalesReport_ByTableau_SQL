@@ -1,4 +1,4 @@
-## Dynamic & Interactive Pizza Sales Dashboard By Tableau & SQL 👇 
+## Slicing Sales Data with Style 🍕| Dynamic Pizza’s Sales Report via Tableau & SQL-Backed Validation 
 
 **📍 Project Link:** https://public.tableau.com/app/profile/kunal7999/viz/Pizza_Sales_Proj_1/Home
 
