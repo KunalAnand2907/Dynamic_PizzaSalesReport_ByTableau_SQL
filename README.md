@@ -4,7 +4,7 @@
 
 📈 For the project, Have used **Tableau** to create interactive and dynamic dashboards. I uploaded a **.csv file to Microsoft SQL Server**, where the data is pre-processed using **ETL** techniques. Subsequently, I created a validation report by performing complex** SQL** queries to justify and validate the visualizations presented in Tableau.
 
-📌 Developed various** charts/ Graphs** and **interactive dashboards**, including a **"Home" dashboard** and dashboards showcasing the **best and worst-selling pizzas**. Additionally, have highlighted five **(KPIs)** that significantly impact pizza sales & help pizza Supplier shape their businesses. 
+📌 Developed various **charts/ Graphs** and **interactive dashboards**, including a **"Home" dashboard** and dashboards showcasing the **best and worst-selling pizzas**. Additionally, have highlighted five **(KPIs)** that significantly impact pizza sales & help pizza Supplier shape their businesses. 
 
 📌 The project aims to assist clients in the pizza business by providing valuable insights through real-time data analytics dashboards, enabling them to make informed decisions to improve their sales.
 
