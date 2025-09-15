@@ -8,6 +8,8 @@
 
 📌 The project aims to assist clients in the pizza business by providing valuable insights through real-time data analytics dashboards, enabling them to make informed decisions to improve their sales.
 
+---
+
 ### 1. Dataset Overview
 
 In this Project, I have used Pizza Sales Dataset for the Year 2015, which has the following Attributes:
@@ -97,11 +99,12 @@ XXL - XX-Large
 
 ### 6. Designed and implemented two dynamic To & Fro dashboards.
 
+#
 <p align="center"> <b>1.) Home Page ~ Landing or Main Page</b></p>
 
 ![Screenshot 2023-09-18 042209](https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/a5105283-a3fb-4a28-b69c-01101d0908aa)
 
-
+#
 <p align="center"> <b> 2.) Best/ Worst Pizza Sellers Page</b></p>
 
 
