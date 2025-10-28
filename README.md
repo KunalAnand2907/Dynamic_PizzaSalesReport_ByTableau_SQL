@@ -128,9 +128,9 @@ XXL - XX-Large
 
 <ul>
 <li>SQL-driven ETL & data prep pipeline</li>
-Interactive Tableau dashboards with KPIs & trends</li>
-Category, size & time-based performance analysis</li>
-Seamless integration of SQL and Tableau for scalability</li>
+<li>Interactive Tableau dashboards with KPIs & trends</li>
+<li>Category, size & time-based performance analysis</li>
+<li>Seamless integration of SQL and Tableau for scalability</li>
 </ul>
 
 **📊 Impact:**
