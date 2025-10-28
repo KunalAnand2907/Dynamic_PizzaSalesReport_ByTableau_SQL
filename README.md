@@ -65,7 +65,7 @@ Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the Rev
 
 ### 3️⃣ Tools & Technologies
 
-<div align="center">
+<div align="left">
 
 | Tool | Version |
 |-----------|----------------|
