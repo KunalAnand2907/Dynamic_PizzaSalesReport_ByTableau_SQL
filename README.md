@@ -1,6 +1,6 @@
 ## Slicing Sales Data with Style 🍕| Dynamic Pizza’s Sales Report via Tableau & SQL-Backed Validation 
 
-**📍 Project Link:** https://public.tableau.com/app/profile/kunal7999/viz/Pizza_Sales_Proj_1/Home
+### 📍 Project Link: &nbsp;[![Open in Tableau](https://img.shields.io/badge/Open%20in-Tableau-005C9F?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/kunal7999/viz/Pizza_Sales_Proj_1/Home)
 
 📈 For the project, used **Tableau Desktop** 📊 to design interactive and dynamic dashboards that provided actionable business insights. 
 
