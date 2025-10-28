@@ -18,7 +18,7 @@
 
 ---
 
-### 1. Dataset Overview
+### 1️⃣ Dataset Overview
 
 In this Project, I have used Pizza Sales Dataset for the Year 2015, which has the following Attributes:
 <ul>
@@ -28,7 +28,7 @@ Pizza Name, Pizza Size (S, M, L, XL, XXL), Pizza Category (Classic, Veggie, Supr
 Pizza Id - Primary Key Unique ID for each Pizza, Order Id: Can have duplicates, Quantity: How Many Number of Pizza's, Unit Price/ Total Price: The Price of Each Pizza for specific Order & with specific Quantity.
 <b><li> Data & Time Variables: </li></b> Order Date: DD-MM-YYYY, Order Time: HH:MM:SS </ul>
 
-### 2. Problem Statement
+### 2️⃣ Problem Statement
 <ol>
 <b><li> KPI's Requirement </li></b>
 <br>
@@ -63,20 +63,24 @@ Create a bar chart highlighting the top 5 best-selling pizzas based on the Reven
 Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the Revenue, Total Quantity, and Total Orders. This chart will enable us to identify underperforming or less popular pizza options. 
 </ol> </ol>
 
-### 3. Tools & Technologies
-<ul>
-<li><b> MS OFFICE/EXCEL :</b> VERSION 2021 
-<li><b> MS SQL SERVER :</b> 19.0
-<li><b> SQL SERVER MANAGEMENT STUDIO :</b> 19.0.20209.0
-<li><b> TABLEAU DESKTOP :</b> 2023.3.0
-<li><b> MS POWERPOINT :</b> FOR Creating INTERACTIVE Backgrounds WITH SUB BLOCKS </li>
-</ul>
+### 3️⃣ Tools & Technologies
 
-### 4. Data Gathering, Pre-Processing, and loading Data into Microsoft SQL Server
+<div align="center">
+
+| Tool | Version |
+|-----------|----------------|
+| **MS EXCEL** |  2021 |
+| **MS SQL SERVER** | 19.0 |
+| **SQL SERVER MANAGEMENT STUDIO** | 19.0.20209.0 |
+| **TABLEAU DESKTOP** | 2023.3.0 |
+| **MS POWERPOINT ** | For Creating Interactive Bg. with sub blocks |
+</div>
+
+### 4️⃣ Data Gathering, Pre-Processing, and loading Data into Microsoft SQL Server
 
 <ul>
 <li> The Data is downloaded from the official Kaggle website.
-<li> Here the data is in .xlsx format, we need to convert it to .csv as only .csv files are loaded in Micro. SQL Server.
+<li> Here the data is in .xlsx format, we need to convert it to .csv as only .csv files are loaded in Microsoft SQL Server.
 <li> Import The data as a Flat File into the SQL Server, and create a Database using the current connection.
 <li> After Loading we need to do some Pre-processing such as: </ul>
 
@@ -101,11 +105,11 @@ XXL - XX-Large
 <b><li> Handling Noisy Data/Outliers: </b></li> Performing Min/Max Normalization where the values will lie in the range [0,1] 
 </ol>
 
-### 5. Executed and documented validation queries to verify dashboard results.
+### 5️⃣ Executed and documented validation queries to verify dashboard results.
 
 <img src = "https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/01e3d543-0cf5-4b8f-b1e6-7d9e964292d3">
 
-### 6. Designed and implemented two dynamic To & Fro dashboards.
+### 6️⃣ Designed and implemented two dynamic To & Fro dashboards.
 
 #
 <p align="center"> <b>1.) Home Page ~ Landing or Main Page</b></p>
