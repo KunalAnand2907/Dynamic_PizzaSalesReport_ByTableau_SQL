@@ -122,3 +122,21 @@ XXL - XX-Large
 
 ![Screenshot 2023-09-18 042326](https://github.com/KunalAnand2907/Dynamic_PizzaSalesReport_ByTableau_SQL/assets/46574881/e690fc3c-0103-4c6d-9dae-34ee77aa4def)
 
+#
+
+**🔑 Key Features:**
+
+<ul>
+<li>SQL-driven ETL & data prep pipeline</li>
+Interactive Tableau dashboards with KPIs & trends</li>
+Category, size & time-based performance analysis</li>
+Seamless integration of SQL and Tableau for scalability</li>
+</ul>
+
+**📊 Impact:**
+<ul>
+<li>Enabled real-time sales insights through dynamic Tableau dashboards</li>
+<li>Accelerated decision-making vs static reports</li>
+<li>Improved data accuracy via SQL-based validation</li>
+<li>Highlighted top & bottom performers for business optimization</li>
+</ul>
